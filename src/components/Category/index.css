@@ -1,0 +1,17 @@
+.category {
+  list-style-type: none;
+}
+
+.button-s {
+  background-color: transparent;
+  border: none;
+}
+
+.category-p {
+  font-size: 20px;
+}
+
+.heading {
+  font-size: 25px;
+  font-weight: bold;
+}
